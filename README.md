@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Jash Mehta</h1>
-<p align="center">Graduate Student at Georgia Tech. Interested in software, NLP and Federated Learning </p>
+<p align="center">Graduate Student at Georgia Tech. Interested in software engineering, NLP and Federated Learning </p>
 
 
 
