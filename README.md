@@ -2,14 +2,14 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Jash Mehta</h1>
-<p align="center">Graduate Student at Georgia Tech. Interested in software engineering, NLP and Federated Learning </p>
+<p align="center"> Research Scientist at ServiceNow. CS graduate from Georgia Tech. Interested in LLMs and Federated Learning </p>
 
 
 
 
 - 📜 CV available <a href="https://jashmehta3300.github.io/cv" target="_blank">here</a>
 - 🏡 Blog available [here](https://jashmehta3300.github.io/posts)
-- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/jash-mehta-3300/) or Email (jmehta73 [at] gatech [dot] edu)
+- 📫 How to reach me: [LinkedIn (add a note!)](https://www.linkedin.com/in/jash-mehta-3300/) or Email (jashmehta3300 [at] gmail [dot] com)
 <!-- - 👨‍💻 All of my projects are available at [@jashmehta3300](https://github.com/jashmehta3300) -->
 
 
